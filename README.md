@@ -1,2 +1,2 @@
 # Multimedia-systems
-Team exercise for the multimedia systems course.
+Compression and motion estimation
